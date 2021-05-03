@@ -1,4 +1,4 @@
-/target
-/env
-/*/__pycache__
-/.vscode
+target/
+env/
+**/__pycache__/
+.vscode/
