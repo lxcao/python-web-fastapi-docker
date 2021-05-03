@@ -2,7 +2,7 @@
 Author: clingxin
 Date: 2021-05-03 11:48:31
 LastEditors: clingxin
-LastEditTime: 2021-05-03 11:50:46
+LastEditTime: 2021-05-03 15:56:36
 FilePath: /python-web-fastapi-docker/models/movie_model.py
 '''
 

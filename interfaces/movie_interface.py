@@ -2,9 +2,11 @@
 Author: clingxin
 Date: 2021-05-02 11:24:56
 LastEditors: clingxin
-LastEditTime: 2021-05-03 12:23:43
-FilePath: /python-web-fastapi-docker/service/movie_data.py
+LastEditTime: 2021-05-03 15:13:56
+FilePath: /python-web-fastapi-docker/interface/movie_interface.py
 '''
+#from ..models.movie_model import MovieModel
+#import models.movie_model as movieModel
 from models.movie_model import MovieModel
 from typing import Optional
 import httpx
